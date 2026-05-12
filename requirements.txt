@@ -7,3 +7,4 @@ python-dotenv>=1.0
 flask>=3.0
 groq>=0.9
 pyserial>=3.5      # BlinkDetector: live EOG blink detection via Arduino serial
+gradio>=4.0        # Hugging Face Spaces demo (app.py)

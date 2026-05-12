@@ -1,3 +1,15 @@
+---
+title: MindTune OS
+emoji: 🧠
+colorFrom: indigo
+colorTo: purple
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # EEG-Adaptive Music System
 
 **MSc Foundations of AI | National College of Ireland | H9FAI | March 2026**
